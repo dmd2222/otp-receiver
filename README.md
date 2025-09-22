@@ -16,13 +16,13 @@ A lightweight UDP-based tool that receives SMS codes and messages over the local
 
 ## Screenshots
 ### Main Window
-![Main Window](images/screenshot_main.png)
+![Main Window](images/main.jpg)
 
 ### Pop-up Notification
-![Pop-up Notification](images/screenshot_popup.png)
+![Pop-up Notification](images/popup.jpg)
 
 ### MacroDroid Macro
-![MacroDroid Macro](images/screenshot_macro.png)
+![MacroDroid Macro](images/macro.jpg)
 
 ---
 
