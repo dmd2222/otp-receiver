@@ -1,2 +1,52 @@
-# otp-receiver
+# OTP-Receiver
 A lightweight UDP-based tool that receives SMS codes and messages over the local network, decrypts them, and displays them clearly. Features balloon notifications, pop-ups, and real-time logging. Compatible with smartphones using MacroDroid or other similar apps.
+
+## Features
+Receives OTPs and messages via UDP from mobile devices
+Displays messages in a list with timestamp
+Shows balloon notifications and temporary pop-up windows
+Real-time logging of received messages
+Integrates with MacroDroid or similar automation apps
+Automatic clearing of the message list every 5 minutes
+Start minimized in the system tray
+
+## Installation
+### PC
+Clone or download this repository.
+Open the setup.exe or OTP-Receiver.exe.
+
+### Android
+Install MacroDroid or similar app.
+[https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&pcampaignid=web_share&aff=marcoschwald.de]
+Import the "SMS_Code_Copierer_and_LAN_Sharing.macro" macro.
+
+
+
+# Thank me
+ - Work with me on the project.
+ - Make sugesstions to improve the script.
+ - donate some coffee bucks: 
+ -   <a href="https://www.patreon.com/join/marcoschwald" target="_blank"><img src="images/patreon_logo.png" alt="https://unze4u.de/UShort/s.php?i=fu" style="width:100px;height:100px;"></a>
+  - <a href="https://www.patreon.com/join/marcoschwald" target="_blank">PATREONS.COM </a>
+
+# Contakt
+<a href="https://marcoschwald.de/kontakt/kontakt.php" target="_blank">PATREONS.COM </a>
+
+
+  
+ # Licence
+ Copyright (c) CS-Digital UG (hatungsbeschränkt) https://cs-digital-ug.de/ 
+ and Marco Schwald
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE
+  
+  
+  
+  
+  #####################################################################
+# Haftung (german)
+  - §1 Es wird keine haftung für das Projekt übernommen.
+  - §2 Sollten einzelne Bestimmungen dieses Vertrages unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des Vertrages im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der wirtschaftlichen Zielsetzung am nächsten kommen, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich der Vertrag als lückenhaft erweist.
