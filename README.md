@@ -33,6 +33,18 @@ A lightweight UDP-based tool that receives SMS codes and messages over the local
 # Contact
 <a href="https://marcoschwald.de/kontakt/kontakt.php" target="_blank">Contact</a>
 
+## Updates
+All updates, fixes, and new releases for OTP-Receiver are published here:  
+[https://marcoschwald.de/project/otp-receiver/update](https://marcoschwald.de/project/otp-receiver/update)
+
+
+## Security Issues / Vulnerability Reporting
+
+We take security seriously. If you discover a vulnerability, please do **not** create a public issue.  
+Responsible disclosure can be submitted through our contact form on [marcoschwald.de](https://marcoschwald.de/kontakt/kontakt.php).
+
+We will respond promptly and work to release a fix as soon as possible.  
+Your responsible disclosure helps keep the project safe for all users.
 
   
 ## License
@@ -51,7 +63,7 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE
   
   #####################################################################
 # Haftung (german)
-  - §1 Es wird keine haftung für das Projekt übernommen.
+  - §1 Es wird keine Haftung für das Projekt übernommen.
   - §2 Sollten einzelne Bestimmungen dieses Vertrages unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des Vertrages im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der wirtschaftlichen Zielsetzung am nächsten kommen, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich der Vertrag als lückenhaft erweist.
 
 ## Liability (English)
