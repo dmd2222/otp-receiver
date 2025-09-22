@@ -1,6 +1,8 @@
 # OTP-Receiver
 A lightweight UDP-based tool that receives SMS codes and messages over the local network and displays them clearly. Features balloon notifications, pop-ups, and real-time logging. Compatible with smartphones using MacroDroid or other similar apps.
 
+- ⚠️ This project is complete and no longer actively maintained.
+- ⚠️ Dieses Projekt ist abgeschlossen und wird aktuell nicht weiterentwickelt.
 ---
 
 ## Features
@@ -67,7 +69,7 @@ Your responsible disclosure helps keep the project safe for all users.
 
 ## License
 Copyright (c) CS-Digital UG (haftungsbeschränkt) https://cs-digital-ug.de/  
-and Marco Schwald
+and Marco Schwald https://marcoschwald.de/ 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,  
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  
