@@ -16,21 +16,22 @@ A lightweight UDP-based tool that receives SMS codes and messages over the local
 2. Open `setup.exe` or `OTP-Receiver.exe`.
 
 ### Android
-1. Install MacroDroid or a similar app 
+1. Install MacroDroid or a similar app
+[MacroDroid on Play Store](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&pcampaignid=web_share&aff=marcoschwald.de)
 <a href="https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&pcampaignid=web_share&aff=marcoschwald.de" target="_blank">App </a>
-2. Import the macro `SMS_Code_Copierer_and_LAN_Sharing.macro`
+3. Import the macro `SMS_Code_Copierer_and_LAN_Sharing.macro`
 
 
 
-# Thank me
- - Work with me on the project.
- - Make sugesstions to improve the script.
- - donate some coffee bucks: 
- - <a href="https://www.patreon.com/join/marcoschwald" target="_blank"><img src="images/patreon_logo.png" alt="PATREONS - donate a coffee" style="width:100px;height:100px;"></a>
+## Support
+- Work with me on the project.
+- Make suggestions to improve the script.
+- [Donate a coffee on Patreon](https://www.patreon.com/join/marcoschwald)
+- <a href="https://www.patreon.com/join/marcoschwald" target="_blank"><img src="images/patreon_logo.png" alt="PATREONS - donate a coffee" style="width:100px;height:100px;"></a>
 
 
-# Contakt
-<a href="https://marcoschwald.de/kontakt/kontakt.php" target="_blank">PATREONS.COM </a>
+# Contact
+<a href="https://marcoschwald.de/kontakt/kontakt.php" target="_blank">Contact</a>
 
 
   
@@ -52,3 +53,8 @@ THE USE OR OTHER DEALINGS IN THE SOFTWARE
 # Haftung (german)
   - §1 Es wird keine haftung für das Projekt übernommen.
   - §2 Sollten einzelne Bestimmungen dieses Vertrages unwirksam oder undurchführbar sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit des Vertrages im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der wirtschaftlichen Zielsetzung am nächsten kommen, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass sich der Vertrag als lückenhaft erweist.
+
+## Liability (English)
+- §1 No liability is assumed for this project.
+- §2 Should any provision of this agreement be or become invalid, unenforceable, or ineffective, either at the time of conclusion or later, the validity of the remaining provisions shall remain unaffected. The invalid or unenforceable provision shall be replaced by a valid and enforceable one that comes closest to the economic purpose intended by the parties with the original provision. The above provisions apply accordingly in case of gaps in this agreement.
+
