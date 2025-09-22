@@ -1,5 +1,5 @@
 # OTP-Receiver
-A lightweight UDP-based tool that receives SMS codes and messages over the local network, decrypts them, and displays them clearly. Features balloon notifications, pop-ups, and real-time logging. Compatible with smartphones using MacroDroid or other similar apps.
+A lightweight UDP-based tool that receives SMS codes and messages over the local network and displays them clearly. Features balloon notifications, pop-ups, and real-time logging. Compatible with smartphones using MacroDroid or other similar apps.
 
 ---
 
@@ -58,7 +58,7 @@ All updates, fixes, and new releases for OTP-Receiver are published here:
 
 ## Security Issues / Vulnerability Reporting
 We take security seriously. If you discover a vulnerability, please do **not** create a public issue.  
-Responsible disclosure can be submitted through our contact form on [marcoschwald.de](https://marcoschwald.de/kontakt/kontakt.php).
+Responsible disclosure can be submitted through our contact form on [marcoschwald.de](https://marcoschwald.de/kontakt/kontakt).
 
 We will respond promptly and work to release a fix as soon as possible.  
 Your responsible disclosure helps keep the project safe for all users.
