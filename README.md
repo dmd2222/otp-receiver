@@ -17,7 +17,7 @@ Open the setup.exe or OTP-Receiver.exe.
 
 ### Android
 Install MacroDroid or similar app.
-[https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&pcampaignid=web_share&aff=marcoschwald.de]
+<a href="https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&pcampaignid=web_share&aff=marcoschwald.de" target="_blank">App </a>
 Import the "SMS_Code_Copierer_and_LAN_Sharing.macro" macro.
 
 
@@ -26,8 +26,8 @@ Import the "SMS_Code_Copierer_and_LAN_Sharing.macro" macro.
  - Work with me on the project.
  - Make sugesstions to improve the script.
  - donate some coffee bucks: 
- -   <a href="https://www.patreon.com/join/marcoschwald" target="_blank"><img src="images/patreon_logo.png" alt="https://unze4u.de/UShort/s.php?i=fu" style="width:100px;height:100px;"></a>
-  - <a href="https://www.patreon.com/join/marcoschwald" target="_blank">PATREONS.COM </a>
+ - <a href="https://www.patreon.com/join/marcoschwald" target="_blank"><img src="images/patreon_logo.png" alt="Link" style="width:100px;height:100px;"></a>
+ - <a href="https://www.patreon.com/join/marcoschwald" target="_blank">PATREONS.COM </a>
 
 # Contakt
 <a href="https://marcoschwald.de/kontakt/kontakt.php" target="_blank">PATREONS.COM </a>
